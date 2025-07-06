@@ -1,4 +1,9 @@
+# vscode
 .vscode/
+
+# outputs
 a.out
 *.bin
 */.cph
+*.dSYM
+output/
